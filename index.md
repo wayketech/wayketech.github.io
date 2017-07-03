@@ -12,7 +12,7 @@ Wayke IFrame Implementation is a simpler integration into using data from Wayke,
 
 This page, and the documentation, will be updated with more information in the near future.
 
-Feel free to contact us for any inquiries at dev@wayketech.se.
+Feel free to contact us for any inquiries at info@wayke.se.
 
 Best regards,
 Wayke dev team
