@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Wayke
 
-You can use the [editor on GitHub](https://github.com/wayketech/wayke.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We will develop these documentations going forward to a live version of Wayke.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Relased documentation
+For now we have relesead two parts of documentation, one for our iframe enviroment, and one for our JSON API:s for resellers.
 
-### Markdown
+- [Link](url)
+- [Link](url)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will be back with more soon.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wayketech/wayke.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Best regards
+the Wayke dev team
