@@ -6,7 +6,7 @@ The documentation is currently split into two documents: One explaining the Wayk
 Wayke IFrame Implementation is a simpler integration into using data from Wayke, but doesn't give the same amount of control or functionality as Wayke API.
 
 - [wayke-documentationIframe-v-1.pdf](https://wayketech.github.io/docs/iframe/wayke-documentationIframe-v-1.pdf) - (updated 6/11-17)
-- [wayke-documentationResellerAPI-V-0-6.pdf](https://wayketech.github.io/docs/api/wayke-documentationResellerAPI-V-0-6.pdf) - (updated 6/11-17)
+- [wayke-documentationResellerAPI-V-0-7.pdf](https://wayketech.github.io/docs/api/wayke-documentationResellerAPI-V-0-7.pdf) - (updated 15/11-17)
 
 This page, and the documentation, will be updated with more information in the near future.
 
